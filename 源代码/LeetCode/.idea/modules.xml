@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dfs/Dfs.iml" filepath="$PROJECT_DIR$/Dfs/Dfs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Greedy_Algorithm/Greedy_Algorithm.iml" filepath="$PROJECT_DIR$/Greedy_Algorithm/Greedy_Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
     </modules>
   </component>
