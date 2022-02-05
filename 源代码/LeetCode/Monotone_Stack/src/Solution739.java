@@ -49,15 +49,30 @@ public class Solution739 {
 //            int index = stack.pop();//实际上弹出的是下标
 //            ans[index] = i - index;
 //        }
-//        System.out.println(Arrays.toString(ans));
+        System.out.println(Arrays.toString(ans));
         return ans;
     }
 
+    public int[] dailyTemperaturesCarl(int[] temperatures){
+        Stack<Integer> stack = new Stack<>();
+        int[] ans = new int[temperatures.length];
+        for(int i=0;i<temperatures.length;i++){
+            while(!stack.isEmpty() && temperatures[stack.peek()] < temperatures[i]){
+                int index = stack.pop();
+                ans[index] = i - index;
+            }
+            stack.push(i);
+        }
+        System.out.println(Arrays.toString(ans));
+        return temperatures;
+    }
+
+
     public static void main(String[] args) {
 //        int[] temperatures = new int[]{34,30,29,33};
-        int[] temperatures = new int[]{73,74,75,71,69,72,76,73};
+        int[] temperatures = new int[]{999,98,97,101,102,103};
 //        int[] temperatures = new int[]{30,40,50,60};
         Solution739 solution739 = new Solution739();
-        solution739.dailyTemperatures(temperatures);
+        solution739.dailyTemperaturesCarl(temperatures);
     }
 }
