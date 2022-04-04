@@ -1,3 +1,5 @@
+package easy;
+
 public class Solution70 {
     /**
      * 70. 爬楼梯

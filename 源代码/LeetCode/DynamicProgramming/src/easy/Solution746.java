@@ -1,3 +1,5 @@
+package easy;
+
 import java.text.MessageFormat;
 
 public class Solution746 {

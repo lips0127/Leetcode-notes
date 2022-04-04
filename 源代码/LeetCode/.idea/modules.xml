@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dfs/Dfs.iml" filepath="$PROJECT_DIR$/Dfs/Dfs.iml" />
       <module fileurl="file://$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" filepath="$PROJECT_DIR$/DynamicProgramming/DynamicProgramming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Greedy_Algorithm/Greedy_Algorithm.iml" filepath="$PROJECT_DIR$/Greedy_Algorithm/Greedy_Algorithm.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Monotone_Stack/Monotone_Stack.iml" filepath="$PROJECT_DIR$/Monotone_Stack/Monotone_Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrustedAuthentication_recommend/TrustedAuthentication_recommend.iml" filepath="$PROJECT_DIR$/TrustedAuthentication_recommend/TrustedAuthentication_recommend.iml" />
     </modules>
   </component>
 </project>
