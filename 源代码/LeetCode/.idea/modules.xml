@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/LeetCode.iml" filepath="$PROJECT_DIR$/.idea/LeetCode.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/Monotone_Stack/Monotone_Stack.iml" filepath="$PROJECT_DIR$/Monotone_Stack/Monotone_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Review/Review.iml" filepath="$PROJECT_DIR$/Review/Review.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/TrustedAuthentication_recommend/TrustedAuthentication_recommend.iml" filepath="$PROJECT_DIR$/TrustedAuthentication_recommend/TrustedAuthentication_recommend.iml" />
     </modules>
