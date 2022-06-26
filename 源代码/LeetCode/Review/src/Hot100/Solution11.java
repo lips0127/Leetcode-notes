@@ -12,7 +12,7 @@ public class Solution11 {
         int left,right;
         left = 0;right=height.length-1;
         int tempMaxArea = 0;
-        while(left < right - 1){
+        while(left < right){
             int h = Math.min(height[left],height[right]);
             tempMaxArea = Math.max(tempMaxArea,h * (right - left));
             // "谁最短板，优先改变谁."
